@@ -4,6 +4,7 @@
 ## Project 2020 - Fundamentals of Data analysis. Using the Powerproduction dataset and jupyter notebook
 
 #### NB: All references for this project can be located in the project notebook file project 2020.ipynb
+         Please execute the cells in the project notebook from the start right down in order to for the code to work
 
 
 #### Task
